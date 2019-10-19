@@ -40,53 +40,33 @@
     <display-name lang="pt">Combate HD [Alter]</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="EI">
-    <display-name lang="pt">EI</display-name>
-    <url>http://www.lineup.net.br</url>
-  </channel>
   <channel id="EI PLUS">
     <display-name lang="pt">EI PLUS</display-name>
-    <url>http://www.lineup.net.br</url>
+    <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="EI PLUS HD">
     <display-name lang="pt">EI PLUS HD</display-name>
-    <url>http://www.lineup.net.br</url>
+    <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="ESPN">
     <display-name lang="pt">ESPN</display-name>
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="ESPN [Alter]">
-    <display-name lang="pt">ESPN [Alter]</display-name>
-    <url>http://www.lineup.net.br</url>
+    <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="ESPN HD">
     <display-name lang="pt">ESPN HD</display-name>
-    <url>http://www.lineup.net.br</url>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ESPN HD FHD">
+    <display-name lang="pt">ESPN FHD</display-name>
+    <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="ESPN HD [Alter]">
     <display-name lang="pt">ESPN HD [Alter]</display-name>
-    <url>http://www.lineup.net.br</url>
+    <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="ESPN FHD">
-    <display-name lang="pt">ESPN FHD</display-name>
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="ESPN 2">
-    <display-name lang="pt">ESPN 2</display-name>
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="ESPN 2 FHD">
-    <display-name lang="pt">ESPN 2 FHD</display-name>
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="ESPN 2 HD">
-    <display-name lang="pt">ESPN 2 HD</display-name>
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="ESPN 2 HD [Alter]">
-    <display-name lang="pt">ESPN 2 HD [Alter]</display-name>
-    <url>http://www.lineup.net.br</url>
+  <channel id="ESPN [Alter]">
+    <display-name lang="pt">ESPN [Alter]</display-name>
+    <url>http://www.netcombo.com.br</url>
   </channel>
   <programme start="20191019020000 -0300" stop="20191019023000 -0300" channel="Band Sports">
     <title lang="pt">Poker Night</title>
@@ -978,6 +958,636 @@
   </programme>
   <programme start="20191019190000 -0300" stop="20191020020000 -0300" channel="Combate HD [Alter]">
     <title lang="pt">Shooto 97</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019000000 -0300" stop="20191019003000 -0300" channel="ESPN">
+    <title lang="pt">F1: The Inside Line</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019003000 -0300" stop="20191019013000 -0300" channel="ESPN">
+    <title lang="pt">Sportscenter</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019013000 -0300" stop="20191019033000 -0300" channel="ESPN">
+    <title lang="pt">Overwatch Contenders</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019033000 -0300" stop="20191019040000 -0300" channel="ESPN">
+    <title lang="pt">Scrum Especial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019040000 -0300" stop="20191019063000 -0300" channel="ESPN">
+    <title lang="pt">Copa do Mundo de Rugby: Inglaterra x Austrália</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019063000 -0300" stop="20191019070000 -0300" channel="ESPN">
+    <title lang="pt">Mundo Premier League</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019070000 -0300" stop="20191019093000 -0300" channel="ESPN">
+    <title lang="pt">Copa do Mundo de Rugby: Nova Zelândia x Irlanda</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019093000 -0300" stop="20191019102500 -0300" channel="ESPN">
+    <title lang="pt">ESPN League</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019102500 -0300" stop="20191019105000 -0300" channel="ESPN">
+    <title lang="pt">ESPN League Game Show</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019105000 -0300" stop="20191019130000 -0300" channel="ESPN">
+    <title lang="pt">Leicester City x Burnley</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019130000 -0300" stop="20191019132500 -0300" channel="ESPN">
+    <title lang="pt">F1: The Inside Line</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019132500 -0300" stop="20191019153000 -0300" channel="ESPN">
+    <title lang="pt">Rkc Waalwijk x Ajax</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019153000 -0300" stop="20191019174500 -0300" channel="ESPN">
+    <title lang="pt">Utrecht x PSV</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019174500 -0300" stop="20191019183000 -0300" channel="ESPN">
+    <title lang="pt">Overwatch Contenders</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019183000 -0300" stop="20191019190000 -0300" channel="ESPN">
+    <title lang="pt">Arena Esports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019190000 -0300" stop="20191019193000 -0300" channel="ESPN">
+    <title lang="pt">Scrum Especial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019193000 -0300" stop="20191019193500 -0300" channel="ESPN">
+    <title lang="pt">Que Onda é Essa?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019193500 -0300" stop="20191019200000 -0300" channel="ESPN">
+    <title lang="pt">Peyton's Places</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019200000 -0300" stop="20191019210000 -0300" channel="ESPN">
+    <title lang="pt">ESPN Filmes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019210000 -0300" stop="20191020000000 -0300" channel="ESPN">
+    <title lang="pt">MLB: New York Yankees x Houston Astros</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019000000 -0300" stop="20191019003000 -0300" channel="ESPN HD">
+    <title lang="pt">F1: The Inside Line</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019003000 -0300" stop="20191019013000 -0300" channel="ESPN HD">
+    <title lang="pt">Sportscenter</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019013000 -0300" stop="20191019033000 -0300" channel="ESPN HD">
+    <title lang="pt">Overwatch Contenders</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019033000 -0300" stop="20191019040000 -0300" channel="ESPN HD">
+    <title lang="pt">Scrum Especial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019040000 -0300" stop="20191019063000 -0300" channel="ESPN HD">
+    <title lang="pt">Copa do Mundo de Rugby: Inglaterra x Austrália</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019063000 -0300" stop="20191019070000 -0300" channel="ESPN HD">
+    <title lang="pt">Mundo Premier League</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019070000 -0300" stop="20191019093000 -0300" channel="ESPN HD">
+    <title lang="pt">Copa do Mundo de Rugby: Nova Zelândia x Irlanda</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019093000 -0300" stop="20191019102500 -0300" channel="ESPN HD">
+    <title lang="pt">ESPN League</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019102500 -0300" stop="20191019105000 -0300" channel="ESPN HD">
+    <title lang="pt">ESPN League Game Show</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019105000 -0300" stop="20191019130000 -0300" channel="ESPN HD">
+    <title lang="pt">Leicester City x Burnley</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019130000 -0300" stop="20191019132500 -0300" channel="ESPN HD">
+    <title lang="pt">F1: The Inside Line</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019132500 -0300" stop="20191019153000 -0300" channel="ESPN HD">
+    <title lang="pt">Rkc Waalwijk x Ajax</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019153000 -0300" stop="20191019174500 -0300" channel="ESPN HD">
+    <title lang="pt">Utrecht x PSV</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019174500 -0300" stop="20191019183000 -0300" channel="ESPN HD">
+    <title lang="pt">Overwatch Contenders</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019183000 -0300" stop="20191019190000 -0300" channel="ESPN HD">
+    <title lang="pt">Arena Esports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019190000 -0300" stop="20191019193000 -0300" channel="ESPN HD">
+    <title lang="pt">Scrum Especial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019193000 -0300" stop="20191019193500 -0300" channel="ESPN HD">
+    <title lang="pt">Que Onda é Essa?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019193500 -0300" stop="20191019200000 -0300" channel="ESPN HD">
+    <title lang="pt">Peyton's Places</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019200000 -0300" stop="20191019210000 -0300" channel="ESPN HD">
+    <title lang="pt">ESPN Filmes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019210000 -0300" stop="20191020000000 -0300" channel="ESPN HD">
+    <title lang="pt">MLB: New York Yankees x Houston Astros</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019000000 -0300" stop="20191019003000 -0300" channel="ESPN HD FHD">
+    <title lang="pt">F1: The Inside Line</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019003000 -0300" stop="20191019013000 -0300" channel="ESPN HD FHD">
+    <title lang="pt">Sportscenter</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019013000 -0300" stop="20191019033000 -0300" channel="ESPN HD FHD">
+    <title lang="pt">Overwatch Contenders</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019033000 -0300" stop="20191019040000 -0300" channel="ESPN HD FHD">
+    <title lang="pt">Scrum Especial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019040000 -0300" stop="20191019063000 -0300" channel="ESPN HD FHD">
+    <title lang="pt">Copa do Mundo de Rugby: Inglaterra x Austrália</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019063000 -0300" stop="20191019070000 -0300" channel="ESPN HD FHD">
+    <title lang="pt">Mundo Premier League</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019070000 -0300" stop="20191019093000 -0300" channel="ESPN HD FHD">
+    <title lang="pt">Copa do Mundo de Rugby: Nova Zelândia x Irlanda</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019093000 -0300" stop="20191019102500 -0300" channel="ESPN HD FHD">
+    <title lang="pt">ESPN League</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019102500 -0300" stop="20191019105000 -0300" channel="ESPN HD FHD">
+    <title lang="pt">ESPN League Game Show</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019105000 -0300" stop="20191019130000 -0300" channel="ESPN HD FHD">
+    <title lang="pt">Leicester City x Burnley</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019130000 -0300" stop="20191019132500 -0300" channel="ESPN HD FHD">
+    <title lang="pt">F1: The Inside Line</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019132500 -0300" stop="20191019153000 -0300" channel="ESPN HD FHD">
+    <title lang="pt">Rkc Waalwijk x Ajax</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019153000 -0300" stop="20191019174500 -0300" channel="ESPN HD FHD">
+    <title lang="pt">Utrecht x PSV</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019174500 -0300" stop="20191019183000 -0300" channel="ESPN HD FHD">
+    <title lang="pt">Overwatch Contenders</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019183000 -0300" stop="20191019190000 -0300" channel="ESPN HD FHD">
+    <title lang="pt">Arena Esports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019190000 -0300" stop="20191019193000 -0300" channel="ESPN HD FHD">
+    <title lang="pt">Scrum Especial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019193000 -0300" stop="20191019193500 -0300" channel="ESPN HD FHD">
+    <title lang="pt">Que Onda é Essa?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019193500 -0300" stop="20191019200000 -0300" channel="ESPN HD FHD">
+    <title lang="pt">Peyton's Places</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019200000 -0300" stop="20191019210000 -0300" channel="ESPN HD FHD">
+    <title lang="pt">ESPN Filmes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019210000 -0300" stop="20191020000000 -0300" channel="ESPN HD FHD">
+    <title lang="pt">MLB: New York Yankees x Houston Astros</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019000000 -0300" stop="20191019003000 -0300" channel="ESPN HD [Alter]">
+    <title lang="pt">F1: The Inside Line</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019003000 -0300" stop="20191019013000 -0300" channel="ESPN HD [Alter]">
+    <title lang="pt">Sportscenter</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019013000 -0300" stop="20191019033000 -0300" channel="ESPN HD [Alter]">
+    <title lang="pt">Overwatch Contenders</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019033000 -0300" stop="20191019040000 -0300" channel="ESPN HD [Alter]">
+    <title lang="pt">Scrum Especial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019040000 -0300" stop="20191019063000 -0300" channel="ESPN HD [Alter]">
+    <title lang="pt">Copa do Mundo de Rugby: Inglaterra x Austrália</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019063000 -0300" stop="20191019070000 -0300" channel="ESPN HD [Alter]">
+    <title lang="pt">Mundo Premier League</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019070000 -0300" stop="20191019093000 -0300" channel="ESPN HD [Alter]">
+    <title lang="pt">Copa do Mundo de Rugby: Nova Zelândia x Irlanda</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019093000 -0300" stop="20191019102500 -0300" channel="ESPN HD [Alter]">
+    <title lang="pt">ESPN League</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019102500 -0300" stop="20191019105000 -0300" channel="ESPN HD [Alter]">
+    <title lang="pt">ESPN League Game Show</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019105000 -0300" stop="20191019130000 -0300" channel="ESPN HD [Alter]">
+    <title lang="pt">Leicester City x Burnley</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019130000 -0300" stop="20191019132500 -0300" channel="ESPN HD [Alter]">
+    <title lang="pt">F1: The Inside Line</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019132500 -0300" stop="20191019153000 -0300" channel="ESPN HD [Alter]">
+    <title lang="pt">Rkc Waalwijk x Ajax</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019153000 -0300" stop="20191019174500 -0300" channel="ESPN HD [Alter]">
+    <title lang="pt">Utrecht x PSV</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019174500 -0300" stop="20191019183000 -0300" channel="ESPN HD [Alter]">
+    <title lang="pt">Overwatch Contenders</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019183000 -0300" stop="20191019190000 -0300" channel="ESPN HD [Alter]">
+    <title lang="pt">Arena Esports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019190000 -0300" stop="20191019193000 -0300" channel="ESPN HD [Alter]">
+    <title lang="pt">Scrum Especial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019193000 -0300" stop="20191019193500 -0300" channel="ESPN HD [Alter]">
+    <title lang="pt">Que Onda é Essa?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019193500 -0300" stop="20191019200000 -0300" channel="ESPN HD [Alter]">
+    <title lang="pt">Peyton's Places</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019200000 -0300" stop="20191019210000 -0300" channel="ESPN HD [Alter]">
+    <title lang="pt">ESPN Filmes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019210000 -0300" stop="20191020000000 -0300" channel="ESPN HD [Alter]">
+    <title lang="pt">MLB: New York Yankees x Houston Astros</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019000000 -0300" stop="20191019003000 -0300" channel="ESPN [Alter]">
+    <title lang="pt">F1: The Inside Line</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019003000 -0300" stop="20191019013000 -0300" channel="ESPN [Alter]">
+    <title lang="pt">Sportscenter</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019013000 -0300" stop="20191019033000 -0300" channel="ESPN [Alter]">
+    <title lang="pt">Overwatch Contenders</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019033000 -0300" stop="20191019040000 -0300" channel="ESPN [Alter]">
+    <title lang="pt">Scrum Especial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019040000 -0300" stop="20191019063000 -0300" channel="ESPN [Alter]">
+    <title lang="pt">Copa do Mundo de Rugby: Inglaterra x Austrália</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019063000 -0300" stop="20191019070000 -0300" channel="ESPN [Alter]">
+    <title lang="pt">Mundo Premier League</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019070000 -0300" stop="20191019093000 -0300" channel="ESPN [Alter]">
+    <title lang="pt">Copa do Mundo de Rugby: Nova Zelândia x Irlanda</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019093000 -0300" stop="20191019102500 -0300" channel="ESPN [Alter]">
+    <title lang="pt">ESPN League</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019102500 -0300" stop="20191019105000 -0300" channel="ESPN [Alter]">
+    <title lang="pt">ESPN League Game Show</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019105000 -0300" stop="20191019130000 -0300" channel="ESPN [Alter]">
+    <title lang="pt">Leicester City x Burnley</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019130000 -0300" stop="20191019132500 -0300" channel="ESPN [Alter]">
+    <title lang="pt">F1: The Inside Line</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019132500 -0300" stop="20191019153000 -0300" channel="ESPN [Alter]">
+    <title lang="pt">Rkc Waalwijk x Ajax</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019153000 -0300" stop="20191019174500 -0300" channel="ESPN [Alter]">
+    <title lang="pt">Utrecht x PSV</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019174500 -0300" stop="20191019183000 -0300" channel="ESPN [Alter]">
+    <title lang="pt">Overwatch Contenders</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019183000 -0300" stop="20191019190000 -0300" channel="ESPN [Alter]">
+    <title lang="pt">Arena Esports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019190000 -0300" stop="20191019193000 -0300" channel="ESPN [Alter]">
+    <title lang="pt">Scrum Especial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019193000 -0300" stop="20191019193500 -0300" channel="ESPN [Alter]">
+    <title lang="pt">Que Onda é Essa?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019193500 -0300" stop="20191019200000 -0300" channel="ESPN [Alter]">
+    <title lang="pt">Peyton's Places</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019200000 -0300" stop="20191019210000 -0300" channel="ESPN [Alter]">
+    <title lang="pt">ESPN Filmes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019210000 -0300" stop="20191020000000 -0300" channel="ESPN [Alter]">
+    <title lang="pt">MLB: New York Yankees x Houston Astros</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
     <star-rating>
       <value>1.0</value>
