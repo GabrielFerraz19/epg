@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Band Sports">
+    <display-name lang="pt">Band Sports</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Band Sports HD">
+    <display-name lang="pt">Band Sports HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Band Sports FHD">
+    <display-name lang="pt">Band Sports FHD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20191019020000 -0300" stop="20191019023000 -0300" channel="Band Sports">
+    <title lang="pt">Poker Night</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019023000 -0300" stop="20191019043000 -0300" channel="Band Sports">
+    <title lang="pt">Baita Amigos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019043000 -0300" stop="20191019050000 -0300" channel="Band Sports">
+    <title lang="pt">Ícones do Esporte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019050000 -0300" stop="20191019053000 -0300" channel="Band Sports">
+    <title lang="pt">Times dos Sonhos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019053000 -0300" stop="20191019060000 -0300" channel="Band Sports">
+    <title lang="pt">Poker Night</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019060000 -0300" stop="20191019090000 -0300" channel="Band Sports">
+    <title lang="pt">Baita Amigos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019090000 -0300" stop="20191019110000 -0300" channel="Band Sports">
+    <title lang="pt">ATP 250: Antuérpia</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019110000 -0300" stop="20191019113000 -0300" channel="Band Sports">
+    <title lang="pt">A Lista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019113000 -0300" stop="20191019120000 -0300" channel="Band Sports">
+    <title lang="pt">Estrelas do Tênis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019120000 -0300" stop="20191019140000 -0300" channel="Band Sports">
+    <title lang="pt">ATP 250: Antuérpia</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019140000 -0300" stop="20191019143000 -0300" channel="Band Sports">
+    <title lang="pt">Perto Deles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019143000 -0300" stop="20191019150000 -0300" channel="Band Sports">
+    <title lang="pt">World Sailing Show</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019150000 -0300" stop="20191019160000 -0300" channel="Band Sports">
+    <title lang="pt">Stock Light: Etapa Cascavel</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019160000 -0300" stop="20191019190000 -0300" channel="Band Sports">
+    <title lang="pt">Super League Triathlon: Malta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019190000 -0300" stop="20191019200000 -0300" channel="Band Sports">
+    <title lang="pt">Vila Bandsports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019200000 -0300" stop="20191019210000 -0300" channel="Band Sports">
+    <title lang="pt">Bandsports News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019210000 -0300" stop="20191020010000 -0300" channel="Band Sports">
+    <title lang="pt">WGP 58</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019020000 -0300" stop="20191019023000 -0300" channel="Band Sports HD">
+    <title lang="pt">Poker Night</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019023000 -0300" stop="20191019043000 -0300" channel="Band Sports HD">
+    <title lang="pt">Baita Amigos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019043000 -0300" stop="20191019050000 -0300" channel="Band Sports HD">
+    <title lang="pt">Ícones do Esporte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019050000 -0300" stop="20191019053000 -0300" channel="Band Sports HD">
+    <title lang="pt">Times dos Sonhos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019053000 -0300" stop="20191019060000 -0300" channel="Band Sports HD">
+    <title lang="pt">Poker Night</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019060000 -0300" stop="20191019090000 -0300" channel="Band Sports HD">
+    <title lang="pt">Baita Amigos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019090000 -0300" stop="20191019110000 -0300" channel="Band Sports HD">
+    <title lang="pt">ATP 250: Antuérpia</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019110000 -0300" stop="20191019113000 -0300" channel="Band Sports HD">
+    <title lang="pt">A Lista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019113000 -0300" stop="20191019120000 -0300" channel="Band Sports HD">
+    <title lang="pt">Estrelas do Tênis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019120000 -0300" stop="20191019140000 -0300" channel="Band Sports HD">
+    <title lang="pt">ATP 250: Antuérpia</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019140000 -0300" stop="20191019143000 -0300" channel="Band Sports HD">
+    <title lang="pt">Perto Deles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019143000 -0300" stop="20191019150000 -0300" channel="Band Sports HD">
+    <title lang="pt">World Sailing Show</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019150000 -0300" stop="20191019160000 -0300" channel="Band Sports HD">
+    <title lang="pt">Stock Light: Etapa Cascavel</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019160000 -0300" stop="20191019190000 -0300" channel="Band Sports HD">
+    <title lang="pt">Super League Triathlon: Malta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019190000 -0300" stop="20191019200000 -0300" channel="Band Sports HD">
+    <title lang="pt">Vila Bandsports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019200000 -0300" stop="20191019210000 -0300" channel="Band Sports HD">
+    <title lang="pt">Bandsports News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019210000 -0300" stop="20191020010000 -0300" channel="Band Sports HD">
+    <title lang="pt">WGP 58</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019020000 -0300" stop="20191019023000 -0300" channel="Band Sports FHD">
+    <title lang="pt">Poker Night</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019023000 -0300" stop="20191019043000 -0300" channel="Band Sports FHD">
+    <title lang="pt">Baita Amigos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019043000 -0300" stop="20191019050000 -0300" channel="Band Sports FHD">
+    <title lang="pt">Ícones do Esporte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019050000 -0300" stop="20191019053000 -0300" channel="Band Sports FHD">
+    <title lang="pt">Times dos Sonhos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019053000 -0300" stop="20191019060000 -0300" channel="Band Sports FHD">
+    <title lang="pt">Poker Night</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019060000 -0300" stop="20191019090000 -0300" channel="Band Sports FHD">
+    <title lang="pt">Baita Amigos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019090000 -0300" stop="20191019110000 -0300" channel="Band Sports FHD">
+    <title lang="pt">ATP 250: Antuérpia</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019110000 -0300" stop="20191019113000 -0300" channel="Band Sports FHD">
+    <title lang="pt">A Lista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019113000 -0300" stop="20191019120000 -0300" channel="Band Sports FHD">
+    <title lang="pt">Estrelas do Tênis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019120000 -0300" stop="20191019140000 -0300" channel="Band Sports FHD">
+    <title lang="pt">ATP 250: Antuérpia</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019140000 -0300" stop="20191019143000 -0300" channel="Band Sports FHD">
+    <title lang="pt">Perto Deles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019143000 -0300" stop="20191019150000 -0300" channel="Band Sports FHD">
+    <title lang="pt">World Sailing Show</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019150000 -0300" stop="20191019160000 -0300" channel="Band Sports FHD">
+    <title lang="pt">Stock Light: Etapa Cascavel</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019160000 -0300" stop="20191019190000 -0300" channel="Band Sports FHD">
+    <title lang="pt">Super League Triathlon: Malta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019190000 -0300" stop="20191019200000 -0300" channel="Band Sports FHD">
+    <title lang="pt">Vila Bandsports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019200000 -0300" stop="20191019210000 -0300" channel="Band Sports FHD">
+    <title lang="pt">Bandsports News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019210000 -0300" stop="20191020010000 -0300" channel="Band Sports FHD">
+    <title lang="pt">WGP 58</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
