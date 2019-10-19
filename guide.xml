@@ -12,6 +12,82 @@
     <display-name lang="pt">Band Sports FHD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
+  <channel id="Band Sports [Alter]">
+    <display-name lang="pt">Band Sports [Alter]</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Band Sports HD [Alter]">
+    <display-name lang="pt">Band Sports HD [Alter]</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Combate [Alter]">
+    <display-name lang="pt">Combate [Alter]</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Combate">
+    <display-name lang="pt">Combate</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Combate FHD">
+    <display-name lang="pt">Combate FHD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Combate HD">
+    <display-name lang="pt">Combate HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Combate HD [Alter]">
+    <display-name lang="pt">Combate HD [Alter]</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="EI">
+    <display-name lang="pt">EI</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="EI PLUS">
+    <display-name lang="pt">EI PLUS</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="EI PLUS HD">
+    <display-name lang="pt">EI PLUS HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN">
+    <display-name lang="pt">ESPN</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN [Alter]">
+    <display-name lang="pt">ESPN [Alter]</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN HD">
+    <display-name lang="pt">ESPN HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN HD [Alter]">
+    <display-name lang="pt">ESPN HD [Alter]</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN FHD">
+    <display-name lang="pt">ESPN FHD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN 2">
+    <display-name lang="pt">ESPN 2</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN 2 FHD">
+    <display-name lang="pt">ESPN 2 FHD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN 2 HD">
+    <display-name lang="pt">ESPN 2 HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN 2 HD [Alter]">
+    <display-name lang="pt">ESPN 2 HD [Alter]</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
   <programme start="20191019020000 -0300" stop="20191019023000 -0300" channel="Band Sports">
     <title lang="pt">Poker Night</title>
     <star-rating>
@@ -325,6 +401,583 @@
   </programme>
   <programme start="20191019210000 -0300" stop="20191020010000 -0300" channel="Band Sports FHD">
     <title lang="pt">WGP 58</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019020000 -0300" stop="20191019023000 -0300" channel="Band Sports [Alter]">
+    <title lang="pt">Poker Night</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019023000 -0300" stop="20191019043000 -0300" channel="Band Sports [Alter]">
+    <title lang="pt">Baita Amigos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019043000 -0300" stop="20191019050000 -0300" channel="Band Sports [Alter]">
+    <title lang="pt">Ícones do Esporte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019050000 -0300" stop="20191019053000 -0300" channel="Band Sports [Alter]">
+    <title lang="pt">Times dos Sonhos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019053000 -0300" stop="20191019060000 -0300" channel="Band Sports [Alter]">
+    <title lang="pt">Poker Night</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019060000 -0300" stop="20191019090000 -0300" channel="Band Sports [Alter]">
+    <title lang="pt">Baita Amigos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019090000 -0300" stop="20191019110000 -0300" channel="Band Sports [Alter]">
+    <title lang="pt">ATP 250: Antuérpia</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019110000 -0300" stop="20191019113000 -0300" channel="Band Sports [Alter]">
+    <title lang="pt">A Lista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019113000 -0300" stop="20191019120000 -0300" channel="Band Sports [Alter]">
+    <title lang="pt">Estrelas do Tênis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019120000 -0300" stop="20191019140000 -0300" channel="Band Sports [Alter]">
+    <title lang="pt">ATP 250: Antuérpia</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019140000 -0300" stop="20191019143000 -0300" channel="Band Sports [Alter]">
+    <title lang="pt">Perto Deles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019143000 -0300" stop="20191019150000 -0300" channel="Band Sports [Alter]">
+    <title lang="pt">World Sailing Show</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019150000 -0300" stop="20191019160000 -0300" channel="Band Sports [Alter]">
+    <title lang="pt">Stock Light: Etapa Cascavel</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019160000 -0300" stop="20191019190000 -0300" channel="Band Sports [Alter]">
+    <title lang="pt">Super League Triathlon: Malta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019190000 -0300" stop="20191019200000 -0300" channel="Band Sports [Alter]">
+    <title lang="pt">Vila Bandsports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019200000 -0300" stop="20191019210000 -0300" channel="Band Sports [Alter]">
+    <title lang="pt">Bandsports News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019210000 -0300" stop="20191020010000 -0300" channel="Band Sports [Alter]">
+    <title lang="pt">WGP 58</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019020000 -0300" stop="20191019023000 -0300" channel="Band Sports HD [Alter]">
+    <title lang="pt">Poker Night</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019023000 -0300" stop="20191019043000 -0300" channel="Band Sports HD [Alter]">
+    <title lang="pt">Baita Amigos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019043000 -0300" stop="20191019050000 -0300" channel="Band Sports HD [Alter]">
+    <title lang="pt">Ícones do Esporte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019050000 -0300" stop="20191019053000 -0300" channel="Band Sports HD [Alter]">
+    <title lang="pt">Times dos Sonhos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019053000 -0300" stop="20191019060000 -0300" channel="Band Sports HD [Alter]">
+    <title lang="pt">Poker Night</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019060000 -0300" stop="20191019090000 -0300" channel="Band Sports HD [Alter]">
+    <title lang="pt">Baita Amigos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019090000 -0300" stop="20191019110000 -0300" channel="Band Sports HD [Alter]">
+    <title lang="pt">ATP 250: Antuérpia</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019110000 -0300" stop="20191019113000 -0300" channel="Band Sports HD [Alter]">
+    <title lang="pt">A Lista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019113000 -0300" stop="20191019120000 -0300" channel="Band Sports HD [Alter]">
+    <title lang="pt">Estrelas do Tênis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019120000 -0300" stop="20191019140000 -0300" channel="Band Sports HD [Alter]">
+    <title lang="pt">ATP 250: Antuérpia</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019140000 -0300" stop="20191019143000 -0300" channel="Band Sports HD [Alter]">
+    <title lang="pt">Perto Deles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019143000 -0300" stop="20191019150000 -0300" channel="Band Sports HD [Alter]">
+    <title lang="pt">World Sailing Show</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019150000 -0300" stop="20191019160000 -0300" channel="Band Sports HD [Alter]">
+    <title lang="pt">Stock Light: Etapa Cascavel</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019160000 -0300" stop="20191019190000 -0300" channel="Band Sports HD [Alter]">
+    <title lang="pt">Super League Triathlon: Malta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019190000 -0300" stop="20191019200000 -0300" channel="Band Sports HD [Alter]">
+    <title lang="pt">Vila Bandsports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019200000 -0300" stop="20191019210000 -0300" channel="Band Sports HD [Alter]">
+    <title lang="pt">Bandsports News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019210000 -0300" stop="20191020010000 -0300" channel="Band Sports HD [Alter]">
+    <title lang="pt">WGP 58</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019030000 -0300" stop="20191019033000 -0300" channel="Combate [Alter]">
+    <title lang="pt">MMA Raíz: UFC 108</title>
+    <sub-title lang="pt">Evans x Silva</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019033000 -0300" stop="20191019040000 -0300" channel="Combate [Alter]">
+    <title lang="pt">Variedades</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019040000 -0300" stop="20191019050000 -0300" channel="Combate [Alter]">
+    <title lang="pt">Best of Pride</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019050000 -0300" stop="20191019070000 -0300" channel="Combate [Alter]">
+    <title lang="pt">Arena Combate Grappling</title>
+    <sub-title lang="pt">Copa Pódio: Manaus</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019070000 -0300" stop="20191019090000 -0300" channel="Combate [Alter]">
+    <title lang="pt">Arena Combate Grappling</title>
+    <sub-title lang="pt">Copa Pódio: Manaus</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019090000 -0300" stop="20191019123000 -0300" channel="Combate [Alter]">
+    <title lang="pt">UFC Fight Night Combate</title>
+    <sub-title lang="pt">Reyes x Weidman</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019123000 -0300" stop="20191019160000 -0300" channel="Combate [Alter]">
+    <title lang="pt">UFC Fight Night Combate</title>
+    <sub-title lang="pt">Reyes x Weidman</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019160000 -0300" stop="20191019170000 -0300" channel="Combate [Alter]">
+    <title lang="pt">Especial Combate: Especial Grandes Zebras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019170000 -0300" stop="20191019180000 -0300" channel="Combate [Alter]">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Nascidos Para O Combate: Thiago Marreta</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019180000 -0300" stop="20191019190000 -0300" channel="Combate [Alter]">
+    <title lang="pt">Especial Combate: Especial Grandes Zebras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019190000 -0300" stop="20191020020000 -0300" channel="Combate [Alter]">
+    <title lang="pt">Shooto 97</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019030000 -0300" stop="20191019033000 -0300" channel="Combate">
+    <title lang="pt">MMA Raíz: UFC 108</title>
+    <sub-title lang="pt">Evans x Silva</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019033000 -0300" stop="20191019040000 -0300" channel="Combate">
+    <title lang="pt">Variedades</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019040000 -0300" stop="20191019050000 -0300" channel="Combate">
+    <title lang="pt">Best of Pride</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019050000 -0300" stop="20191019070000 -0300" channel="Combate">
+    <title lang="pt">Arena Combate Grappling</title>
+    <sub-title lang="pt">Copa Pódio: Manaus</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019070000 -0300" stop="20191019090000 -0300" channel="Combate">
+    <title lang="pt">Arena Combate Grappling</title>
+    <sub-title lang="pt">Copa Pódio: Manaus</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019090000 -0300" stop="20191019123000 -0300" channel="Combate">
+    <title lang="pt">UFC Fight Night Combate</title>
+    <sub-title lang="pt">Reyes x Weidman</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019123000 -0300" stop="20191019160000 -0300" channel="Combate">
+    <title lang="pt">UFC Fight Night Combate</title>
+    <sub-title lang="pt">Reyes x Weidman</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019160000 -0300" stop="20191019170000 -0300" channel="Combate">
+    <title lang="pt">Especial Combate: Especial Grandes Zebras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019170000 -0300" stop="20191019180000 -0300" channel="Combate">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Nascidos Para O Combate: Thiago Marreta</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019180000 -0300" stop="20191019190000 -0300" channel="Combate">
+    <title lang="pt">Especial Combate: Especial Grandes Zebras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019190000 -0300" stop="20191020020000 -0300" channel="Combate">
+    <title lang="pt">Shooto 97</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019030000 -0300" stop="20191019033000 -0300" channel="Combate FHD">
+    <title lang="pt">MMA Raíz: UFC 108</title>
+    <sub-title lang="pt">Evans x Silva</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019033000 -0300" stop="20191019040000 -0300" channel="Combate FHD">
+    <title lang="pt">Variedades</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019040000 -0300" stop="20191019050000 -0300" channel="Combate FHD">
+    <title lang="pt">Best of Pride</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019050000 -0300" stop="20191019070000 -0300" channel="Combate FHD">
+    <title lang="pt">Arena Combate Grappling</title>
+    <sub-title lang="pt">Copa Pódio: Manaus</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019070000 -0300" stop="20191019090000 -0300" channel="Combate FHD">
+    <title lang="pt">Arena Combate Grappling</title>
+    <sub-title lang="pt">Copa Pódio: Manaus</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019090000 -0300" stop="20191019123000 -0300" channel="Combate FHD">
+    <title lang="pt">UFC Fight Night Combate</title>
+    <sub-title lang="pt">Reyes x Weidman</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019123000 -0300" stop="20191019160000 -0300" channel="Combate FHD">
+    <title lang="pt">UFC Fight Night Combate</title>
+    <sub-title lang="pt">Reyes x Weidman</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019160000 -0300" stop="20191019170000 -0300" channel="Combate FHD">
+    <title lang="pt">Especial Combate: Especial Grandes Zebras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019170000 -0300" stop="20191019180000 -0300" channel="Combate FHD">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Nascidos Para O Combate: Thiago Marreta</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019180000 -0300" stop="20191019190000 -0300" channel="Combate FHD">
+    <title lang="pt">Especial Combate: Especial Grandes Zebras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019190000 -0300" stop="20191020020000 -0300" channel="Combate FHD">
+    <title lang="pt">Shooto 97</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019030000 -0300" stop="20191019033000 -0300" channel="Combate HD">
+    <title lang="pt">MMA Raíz: UFC 108</title>
+    <sub-title lang="pt">Evans x Silva</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019033000 -0300" stop="20191019040000 -0300" channel="Combate HD">
+    <title lang="pt">Variedades</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019040000 -0300" stop="20191019050000 -0300" channel="Combate HD">
+    <title lang="pt">Best of Pride</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019050000 -0300" stop="20191019070000 -0300" channel="Combate HD">
+    <title lang="pt">Arena Combate Grappling</title>
+    <sub-title lang="pt">Copa Pódio: Manaus</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019070000 -0300" stop="20191019090000 -0300" channel="Combate HD">
+    <title lang="pt">Arena Combate Grappling</title>
+    <sub-title lang="pt">Copa Pódio: Manaus</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019090000 -0300" stop="20191019123000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Fight Night Combate</title>
+    <sub-title lang="pt">Reyes x Weidman</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019123000 -0300" stop="20191019160000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Fight Night Combate</title>
+    <sub-title lang="pt">Reyes x Weidman</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019160000 -0300" stop="20191019170000 -0300" channel="Combate HD">
+    <title lang="pt">Especial Combate: Especial Grandes Zebras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019170000 -0300" stop="20191019180000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Nascidos Para O Combate: Thiago Marreta</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019180000 -0300" stop="20191019190000 -0300" channel="Combate HD">
+    <title lang="pt">Especial Combate: Especial Grandes Zebras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019190000 -0300" stop="20191020020000 -0300" channel="Combate HD">
+    <title lang="pt">Shooto 97</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019030000 -0300" stop="20191019033000 -0300" channel="Combate HD [Alter]">
+    <title lang="pt">MMA Raíz: UFC 108</title>
+    <sub-title lang="pt">Evans x Silva</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019033000 -0300" stop="20191019040000 -0300" channel="Combate HD [Alter]">
+    <title lang="pt">Variedades</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019040000 -0300" stop="20191019050000 -0300" channel="Combate HD [Alter]">
+    <title lang="pt">Best of Pride</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019050000 -0300" stop="20191019070000 -0300" channel="Combate HD [Alter]">
+    <title lang="pt">Arena Combate Grappling</title>
+    <sub-title lang="pt">Copa Pódio: Manaus</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019070000 -0300" stop="20191019090000 -0300" channel="Combate HD [Alter]">
+    <title lang="pt">Arena Combate Grappling</title>
+    <sub-title lang="pt">Copa Pódio: Manaus</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019090000 -0300" stop="20191019123000 -0300" channel="Combate HD [Alter]">
+    <title lang="pt">UFC Fight Night Combate</title>
+    <sub-title lang="pt">Reyes x Weidman</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019123000 -0300" stop="20191019160000 -0300" channel="Combate HD [Alter]">
+    <title lang="pt">UFC Fight Night Combate</title>
+    <sub-title lang="pt">Reyes x Weidman</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019160000 -0300" stop="20191019170000 -0300" channel="Combate HD [Alter]">
+    <title lang="pt">Especial Combate: Especial Grandes Zebras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019170000 -0300" stop="20191019180000 -0300" channel="Combate HD [Alter]">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Nascidos Para O Combate: Thiago Marreta</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019180000 -0300" stop="20191019190000 -0300" channel="Combate HD [Alter]">
+    <title lang="pt">Especial Combate: Especial Grandes Zebras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191019190000 -0300" stop="20191020020000 -0300" channel="Combate HD [Alter]">
+    <title lang="pt">Shooto 97</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
     <star-rating>
       <value>1.0</value>
